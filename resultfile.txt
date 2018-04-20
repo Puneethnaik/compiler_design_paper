@@ -1,0 +1,7 @@
+
+config: intel i3 8gb ram
+results:
+		original	acr
+wolf image:	314.57s		193.03s
+parrot:		52.051		34.249
+2colorimage	79.2277		52.06956
